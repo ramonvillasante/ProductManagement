@@ -6,7 +6,7 @@ User Story 1.1: As a developer, I want to identify and analyze Yahoo finance API
 
 User Story 1.2: As a developer, I want to integrate the Yahoo finance API in our application using a RESTful API to retrieve the stock market data.
 
-User Story 1.3: As a developer, I want to implement an Amazon ElastiCache cache to improve the performance of API.
+User Story 1.3: As a developer, I want to implement an Amazon ElastiCache cache to improve the performance of the API.
 
 
 - Epic 2: Front End (inc Search and Price Changes)
